@@ -1,4 +1,3 @@
-import './style.css';
 
 document.getElementById("btnRechercher").addEventListener("click", () => {
   const nomPays = document.getElementById("inputPays").value.trim();
